@@ -1,0 +1,105 @@
+body {
+    background-color: rgb(160, 0, 255);
+   zoom: 75%;
+
+}
+
+#taskbar {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+#side {
+    background-color: white;
+    border: 15px solid rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+      
+}
+
+#flex1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+ img{
+    border-radius: 25px;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+
+ }
+
+ #adresse {
+    margin-top: 150px;
+
+ }
+
+#main {
+    background-color: white;
+    border: 15px solid rgb(255, 255, 255);
+    width: 50%;
+    height: auto;
+    margin: 15px;
+    border-radius: 30px;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+#bartab {
+    background-color: white;
+    border-radius: 30px;
+    height: auto;
+    width: 650px;
+    margin-bottom: 20px;
+
+}
+
+#text {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+}
+
+
+#tekstboks {
+    height: 350px;
+    width: 100%;
+
+}
+
+#h2a {
+    border: solid black 3px;
+    border-radius: 20px;
+    margin-top: 5%;
+
+}
+
+
+p {
+    font-style: oblique;
+    font-size: 130%;
+
+}
+
+#taskbars {
+    margin-top: 0%;
+    width: 80%;
+    
+    
+
+}
